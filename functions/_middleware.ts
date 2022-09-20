@@ -1,4 +1,4 @@
-import "./console.js"
+import "./console.ts"
 
 
 export const onRequest = async ({ next }) => {
